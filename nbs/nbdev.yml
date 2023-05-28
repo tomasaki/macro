@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-test"
+  site-url: "https://tomasaki.github.io/nbdev-test"
+  description: "Play around with nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/tomasaki/nbdev-test"
